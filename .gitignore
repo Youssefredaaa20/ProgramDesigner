@@ -3,3 +3,7 @@ obj/
 .vs/
 *.user
 appsettings.Development.json*.db
+test.ps1
+test_db.ps1
+test.ps1
+test_db.ps1
